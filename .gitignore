@@ -1,0 +1,6 @@
+data/
+vendor/
+composer.lock
+*.swp
+*.db
+.env
